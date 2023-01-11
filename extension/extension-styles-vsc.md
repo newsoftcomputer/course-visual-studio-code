@@ -7,7 +7,7 @@
 
 ## ICONOS
 
-### Material Icon Theme
+### Material Icon Theme     *
 
 ### vscode-icons
 
