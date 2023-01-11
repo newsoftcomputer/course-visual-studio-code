@@ -14,7 +14,7 @@
     - Syntax highlighting, type checking and code completion for lit-html
 
 
-### ES7+ React/Redux/React-Native snippets
+### ES7+ React/Redux/React-Native snippets      *
     - Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.
 
 
@@ -30,8 +30,8 @@
     - Mostrar colores (Uso en nc para mostrar colores hexadecimales en .js)
 
 
-### React native snippet
-    - Snippets para react native
+### Simple React Snippets (Burke Holland)    *
+    - Dead simple React snippets you will actually use
 
 
 ### React native styled components snippets 

@@ -6,11 +6,7 @@
 
 ===========================================================================================
 
-### Spanish Language  ( Lenguaje de español )   
-    - Lenguaje en español para visual studio code
-
-
-### JavaScript (ES6) code snippets
+### JavaScript (ES6) code snippets      *
     - Code snippets for JavaScript in ES6 syntax
 
 
@@ -31,10 +27,6 @@
 
 ### TabNine - Autocompletado con AI     *
     - TabNine es un autocompletado con AI de forma Free es su estado Basic y de Pago en Pro y por Team
-
-
-### Prettier - Code formatter   *
-    - Organizar el codigo
 
 
 ### Todo Tree   *
@@ -69,7 +61,7 @@
     - Improve highlighting of errors, warnings and other language diagnostics.ç
 
 
-### Code Runner     *
+### Code Runner     
     - Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCa
 
 
@@ -98,6 +90,14 @@
 
 ### WakaTime
     - Metrics, insights, and time tracking automatically generated from your programming activity.
+
+
+### Prettier - Code formatter 
+    - Organizar el codigo
+
+
+### Spanish Language  ( Lenguaje de español )   
+    - Lenguaje en español para visual studio code
 
 
 
