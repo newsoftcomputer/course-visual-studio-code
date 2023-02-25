@@ -6,7 +6,7 @@
     - Support Emmet(zen-coding) syntax for Mithril
 
 
-### Lit Snippets    *
+### Lit html    *
     - Lit Snippets for VS Code
 
 
