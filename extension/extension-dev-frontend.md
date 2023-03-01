@@ -1,11 +1,6 @@
 
 # EXTENSION DEV FRONTEND
 
-
-### Mithril Emmet   *
-    - Support Emmet(zen-coding) syntax for Mithril
-
-
 ### Lit html    *
     - Lit Snippets for VS Code
 
