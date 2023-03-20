@@ -9,6 +9,10 @@
     - Syntax highlighting, type checking and code completion for lit-html
 
 
+### innerHTML Syntax Highlighting       *
+    - Syntax highlighting for HTML inside of JavaScript innerHTML template literals
+
+
 ### ES7+ React/Redux/React-Native snippets      *
     - Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.
 
