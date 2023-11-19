@@ -13,13 +13,6 @@
 ### Path intellisense *
     - Ayuda con los paths o rutas
 
-### ES7     *
-    - Extension de autocompletado y abreviaciones para React
-
-
-### Typescript ( Dev Frontend ) *
-    - JavaScript and TypeScript IntelliSense.
-
 
 ### TabNine - Autocompletado con AI     *
     - TabNine es un autocompletado con AI de forma Free es su estado Basic y de Pago en Pro y por Team
@@ -61,18 +54,6 @@
     - Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCa
 
 
-### JavaScript      
-    - Extension de autocompletado y abreviaciones para JavaScript 
-
-
-### MobileView 
-    - Visualizador en vista mobile
-
-
-### Auto close Tag 
-    - Cierre automatico de etiquetas
-
-
 ### Auto Import 
     - Auto importar
 
@@ -102,7 +83,7 @@
 
 =============================================================================================
 
-## EXTENSIONES GIT
+## GIT EXTENSIONS
 
 
 ### Git Graph   *
@@ -120,7 +101,7 @@
 
 =============================================================================================
 
-## LINTER
+## LINTER EXTENSIONS
 
 ### ESLint (Microsoft)      *
     - Integrates ESLint JavaScript into VS Code.
@@ -142,36 +123,9 @@
     - WebAssembly Toolkit for VSCode
 
     
-===============================================================================
-
-## RUST
-
-### Rust Analyzer *
-    - Rust language support for Visual Studio Code
-
-### Even Better Toml *
-    - Fully-featured TOML support
-
-### Crates *
-    - Helps Rust developers managing dependencies with Cargo.toml.
-
-### Rust Test Explorer *
-    - View and run your Rust tests in the Sidebar of Visual Studio Code
-
-### Rust Yew *
-    - Provides some html language features for yew html macro.
+=============================================================================================
 
 
-### Search CratesIO 
-    - crates suggestions for your Rust project's Cargo.toml file
-
-=================================================================
-
-## ICONOS
-
-### Material Icon Theme     *
-
-### vscode-icons
 
 
 

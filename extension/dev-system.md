@@ -1,5 +1,5 @@
 
-# EXTENSIONES SYSTEM - LANGUAGES LOW LEVEL
+# DEV SYSTEM
 
 
 ### x86 and x86_64 Assembly
@@ -8,8 +8,6 @@
 ### PlatformIO IDE
     - Professional development environment for Embedded, IoT, Arduino, CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, Pulp OS, SPL, STM32Cube, Zephy
 
-### C/C++ (Microsoft)  *
-    - Extension pack C/C++
 
 
 <br>

@@ -1,6 +1,10 @@
 
 # EXTENSION DEV FRONTEND
 
+
+### Auto close Tag      *
+    - Cierre automatico de etiquetas
+
 ### Lit html    *
     - Lit Snippets for VS Code
 
