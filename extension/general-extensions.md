@@ -6,10 +6,6 @@
 
 ===========================================================================================
 
-### JavaScript (ES6) code snippets      *
-    - Code snippets for JavaScript in ES6 syntax
-
-
 ### Auto rename tag * 
     - Auto renombrar tags
 
