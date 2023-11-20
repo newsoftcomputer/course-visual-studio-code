@@ -4,10 +4,6 @@
 
 ### Deno    *
     RunTime DENO
-
-
-### Remote SSH - Microsoft  *
-    - SSH incluido en Visual Studio Code
     
 
 ### Vscode NestJs Snippets  *
@@ -18,21 +14,8 @@
     - Quickly create NestJS Files
 
 
-
 <br>
 
-===========================================================================================
-
-
-## DOCKER
-
-### Docker - Microsoft  * 
-    - Containers Docker
-
-### Remote Container - Microsoft  ( Ya esta incluido en vsc )  
-    - Conectar Visual Studio Code con Containers (Docker)
-
-<br>
 
 ===========================================================================================
 

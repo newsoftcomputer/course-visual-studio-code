@@ -6,10 +6,6 @@
 
 ===========================================================================================
 
-### Auto rename tag * 
-    - Auto renombrar tags
-
-
 ### Path intellisense *
     - Ayuda con los paths o rutas
 
@@ -22,7 +18,7 @@
     - Extencion para crear tareas pendientes por hacer 
 
 
-### TODO Highlight  *
+### Highlight  *
     - highlight TODOs, FIXMEs, and any keywords, annotations...
 
 
@@ -38,8 +34,10 @@
     - Real-time collaborative development from the comfort of your favorite tools.
 
 
-### Live Share Audio (Microsoft)    *
-    - Adds audio calling capabilities to Visual Studio Live Share
+
+### Remote SSH - Microsoft  *
+    - SSH incluido en Visual Studio Code
+
 
 
 ### vscode-pdf (tomoki1207) *
@@ -50,16 +48,17 @@
     - Improve highlighting of errors, warnings and other language diagnostics.ç
 
 
-### Code Runner     
+### Code Runner     *
     - Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCa
 
 
-### Auto Import 
+### Auto Import     *
     - Auto importar
 
 
-### Import Cost
+### Import Cost     *
     - Display import/require package size in the editor
+
 
 
 ### Quokka.js
@@ -116,6 +115,17 @@
 
 
 =============================================================================================
+
+
+## DOCKER
+
+### Docker - Microsoft  * 
+    - Containers Docker
+
+### Remote Container - Microsoft  ( Ya esta incluido en vsc )  
+    - Conectar Visual Studio Code con Containers (Docker)
+
+<br>
 
 ## WEBASSEMBLY
 

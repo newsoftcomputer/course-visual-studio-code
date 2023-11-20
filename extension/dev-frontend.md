@@ -4,6 +4,11 @@
 
 ### Auto close Tag      *
     - Cierre automatico de etiquetas
+    
+
+### Auto rename tag * 
+    - Auto renombrar tags
+
 
 ### Lit html    *
     - Lit Snippets for VS Code
