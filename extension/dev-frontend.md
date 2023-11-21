@@ -26,20 +26,19 @@
     - Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.
 
 
-### vscode-styled-components    *
-    -   Extension de autocompletado y abreviacion para Styled Component
-
-
 ### React Native Tools  *
     - React Native Tools - Microsoft
 
 
-### Color Highlight     *
-    - Mostrar colores (Uso en nc para mostrar colores hexadecimales en .js)
 
-
-### Simple React Snippets (Burke Holland)    *
+### Simple React Snippets (Burke Holland)
     - Dead simple React snippets you will actually use
+
+
+
+### vscode-styled-components 
+    -   Extension de autocompletado y abreviacion para Styled Component
+
 
 
 ### React native styled components snippets 
