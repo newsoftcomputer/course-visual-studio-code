@@ -14,6 +14,10 @@
     - Lit Snippets for VS Code
 
 
+### innerHTML Syntax Highlighting   *
+    - Syntax highlighting for HTML inside of JavaScript innerHTML template literals
+
+
 ### Lit Plugin      *
     - Syntax highlighting, type checking and code completion for lit-html
 
